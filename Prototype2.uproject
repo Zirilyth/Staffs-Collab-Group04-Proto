@@ -1,6 +1,12 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{0F78137C-448E-A84C-A6D8-4EB6D9F45FBB}",
+	"EngineAssociation": "{E2910C6A-4B78-1B81-139F-62AC8F7EAA4C}",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "SunPosition",
+			"Enabled": true
+		}
+	]
 }
