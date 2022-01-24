@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.26",
+	"EngineAssociation": "{6A7EFD4A-4F16-66E3-4C2F-FA827F27B3E5}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -20,11 +20,6 @@
 		{
 			"Name": "DatasmithImporter",
 			"Enabled": true
-		},
-		{
-			"Name": "Substance",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/2f6439c2f9584f49809d9b13b16c2ba4"
 		}
 	]
 }
